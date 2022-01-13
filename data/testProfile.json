@@ -1,0 +1,10 @@
+{
+    "deadliftMax": 1,
+    "squatMax": 1,
+    "benchMax": 1,
+    "fullName": "Sam Smith",
+    "weight": 1,
+    "dateOfBirth": 200210101,
+    "age": 1000,
+    "height": 1
+}

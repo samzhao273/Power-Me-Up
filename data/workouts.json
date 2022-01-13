@@ -1,0 +1,44 @@
+{
+    "Your Workouts": [
+        {
+            "date": 102502,
+            "duration": 30,
+            "reps": 10,
+            "sets": 5,
+            "name": "Workout1",
+            "weight": 180,
+            "description": "Good workout, really fun",
+            "location": "ARC",
+            "type": "Push",
+            "favourite": false,
+            "calories burned": 600
+        },
+        {
+            "date": 2002,
+            "duration": 10,
+            "reps": 10,
+            "sets": 10,
+            "name": "Workout2",
+            "weight": 100,
+            "description": "good workout",
+            "location": "ARC",
+            "type": "Push",
+            "favourite": true,
+            "calories burned": 10
+        },
+      {
+        "date": 102502,
+        "duration": 30,
+        "reps": 10,
+        "sets": 5,
+        "name": "Workout1",
+        "weight": 180,
+        "description": "Good workout, really fun",
+        "location": "ARC",
+        "type": "Push",
+        "favourite": false,
+        "calories burned": 600
+      }
+    ],
+    "name": ""
+}

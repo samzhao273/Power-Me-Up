@@ -1,0 +1,18 @@
+{
+  "Your Workouts": [
+    {
+      "date": 20211013,
+      "duration": 30,
+      "reps": 5,
+      "sets": 5,
+      "name": "workout1",
+      "weight": 185,
+      "description": "quick little workout, hit some chest.",
+      "location": "BirdCoop",
+      "type": "Push",
+      "favourite": false,
+      "calories burned": 200
+    }
+  ],
+  "name": "Your Workouts"
+}
